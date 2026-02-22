@@ -20,6 +20,7 @@ O ecossistema é dividido em módulos independentes para demonstrar a separaçã
 
 - **[[Core Engine (Backend)]](https://github.com/Moscarde/mos_tattoo_backend)**: Gerenciamento de fontes de dados, construção de queries via interface e lógica de instanciação de templates.
 - **[[Rendering Layer (Frontend)]](https://github.com/Moscarde/mos_tattoo_frontend)**: Uma interface agnóstica que interpreta JSON de metadados e constrói visualizações em tempo real.
+_O projeto de demonstração foi desenvolvido em React, porém o conceito não se limita a essa ferramenta._
 - **[[Sample Implementation (MOS Tattoo)]](https://github.com/Moscarde/mos_tattoo_database)**: Uma implementação prática utilizando dados fictícios de uma cadeia de suprimentos para demonstrar a engine em funcionamento.
 
 ## 🚀 Diferenciais Explorados
