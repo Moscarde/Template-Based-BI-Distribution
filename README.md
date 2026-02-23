@@ -1,4 +1,5 @@
 # Template Based BI Distribution | Estudo de Arquitetura Full Stack - Distribuição e Gerenciamento de Dashboards
+![Header](header.jpg)
 
 > Exploração técnica sobre a distribuição escalável de painéis analíticos através de templates instanciáveis e permissionamento dinâmico.
 
